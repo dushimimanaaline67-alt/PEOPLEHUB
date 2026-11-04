@@ -1,0 +1,6 @@
+{
+  "name": "PeopleHub",
+  "description": "Comprehensive People Management, ID Generator, and Analytics Dashboard with Admin and User Portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
